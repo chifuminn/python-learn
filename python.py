@@ -1,6 +1,5 @@
 print('')
 print('hello' + 'world')
-print('')
 
 print(11 + 11)
 print('11' + '11')
@@ -16,3 +15,4 @@ if maiyann_old < 28:
 else:
     print('白石本人です')    
 
+print('欅坂')
